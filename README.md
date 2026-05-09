@@ -1,5 +1,4 @@
-# UDS- Integrated Development Studies 
-Course Structure of the Integrated Development Studies Program at UDS
+
 
 # Proposal for Enhancing Development Studies at Valley View University
 
@@ -14,28 +13,40 @@ The proposal highlights how the historical IDS programme structure at UDS during
 * Governance & Political Studies
 * Community-Based Field Practical Training (TTFPP)
 
-The article also encourages Valley View University to study the historical academic model of UDS/UBIDS and consider restructuring its Development Studies programme to include stronger practical, technical, environmental, and community-based components.
+It further encourages Valley View University to study and adopt elements of the UDS/UBIDS model in order to strengthen its Development Studies curriculum with more practical, technical, and field-based training components.
 
-The reconstructed course structures were generated using ChatGPT based on historical programme descriptions, archived online information, and personal recollections from the 2009 academic period.
+---
 
-## Reference Documents
+## 📄 Proposal Document
 
-### BA. Integrated Development Studies (IDS) – UDS Programme Structure (2008/2009 Academic Year Reconstruction)
+### Proposal for the Enhancement of Development Studies at Valley View University Through Academic Collaboration With UDS/UBIDS
 
-[UDS IDS Programme Structure Reconstruction PDF](https://github.com/solomonyaw/UDS--Integrated-Development-Studies/blob/main/BA%20Integrated%20Development%20Studies%20%20%E2%80%93%20UDS%20Programme%20Structure%20-2009%20Academic%20Year%20Reconstruction.pdf?utm_source=chatgpt.com)
+[View Full Proposal Document](https://github.com/solomonyaw/UDS--Integrated-Development-Studies/blob/main/Proposal%20for%20the%20Enhancement%20of%20Development%20Studies%20at%20Valley%20View%20University%20Through%20Academic%20Collaboration%20With%20UDS.pdf?utm_source=chatgpt.com)
+
+---
+
+## 📚 Reference Documents
+
+### BA. Integrated Development Studies (IDS) – UDS Programme Structure (2008/2009 Academic Year Reconstruction
+
+[IDS Programme Structure (2008/2009 Reconstruction)](https://github.com/solomonyaw/UDS--Integrated-Development-Studies/blob/main/BA%20Integrated%20Development%20Studies%20%20%E2%80%93%20UDS%20Programme%20Structure%20-2009%20Academic%20Year%20Reconstruction.pdf?utm_source=chatgpt.com)
 
 ### BA. Integrated Development Studies – Environment and Resource Management Specialization
 
-[Environment and Resource Management Specialization PDF](https://github.com/solomonyaw/UDS--Integrated-Development-Studies/blob/main/BA%20Integrated%20Development%20Studies-%20Environment%20and%20Resource%20Management%20Option.pdf?utm_source=chatgpt.com)
+[Environment & Resource Management Option](https://github.com/solomonyaw/UDS--Integrated-Development-Studies/blob/main/BA%20Integrated%20Development%20Studies-%20Environment%20and%20Resource%20Management%20Option.pdf?utm_source=chatgpt.com)
 
-## Official UBIDS Website
+---
+
+## 🌍 Official UBIDS Website
 
 [University of Business and Integrated Development Studies (UBIDS)](https://ubids.edu.gh/?utm_source=chatgpt.com)
 
-## Author
+---
+
+## 👤 Author
 
 **Solomon Yaw Adeklo**
 Alumnus of Valley View University and former student of the Faculty of Integrated Development Studies, University for Development Studies Wa Campus.
 
-Website:
-[Solomon Yaw Adeklo Official Website](https://www.solomonadeklo.com/?utm_source=chatgpt.com)
+🌐 Website:
+[www.solomonadeklo.com](https://www.solomonadeklo.com/?utm_source=chatgpt.com)
